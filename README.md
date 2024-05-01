@@ -4,7 +4,7 @@ dependence:
 sdl2;
 pcre2;
 blend2d.  
-chang the path in funtion  
+chang the path in function  
 ```
 fontface.createFromFile()
 get_string_from_file()
